@@ -1,0 +1,27 @@
+
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1200px;
+    justify-content: center;
+    gap: 20px;
+}
+
+.gif {
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    border-radius: 8px; 
+    background: #00000010;
+}
+
+.title {
+  text-align: center;
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  color: #333;
+  letter-spacing: 0.5px;
+  font-family: sans-serif;
+}

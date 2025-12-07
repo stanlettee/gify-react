@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gify-react/static/css/main.a4cb267d.css",
+    "main.js": "/gify-react/static/js/main.ecbc151b.js",
+    "static/js/453.0cdcbaa9.chunk.js": "/gify-react/static/js/453.0cdcbaa9.chunk.js",
+    "index.html": "/gify-react/index.html",
+    "main.a4cb267d.css.map": "/gify-react/static/css/main.a4cb267d.css.map",
+    "main.ecbc151b.js.map": "/gify-react/static/js/main.ecbc151b.js.map",
+    "453.0cdcbaa9.chunk.js.map": "/gify-react/static/js/453.0cdcbaa9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4cb267d.css",
+    "static/js/main.ecbc151b.js"
+  ]
+}
